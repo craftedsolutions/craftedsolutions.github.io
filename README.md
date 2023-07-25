@@ -1,3 +1,3 @@
 # Crafted Engineering
 
-TODO
+- [Vision, Mission, Values](values.md)
