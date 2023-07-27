@@ -1,8 +1,8 @@
 # Crafted Engineering
 
-- [Vision, Mission, Values](values.md)
+- [Vision, Mission, Values](pages/values.md)
 - Core Practices
-- Project Checklist
+- [New Project Checklist](pages/new_project_checklist.md)
 - Blog Posts
   - Total Engineering
   - TDD
