@@ -1,4 +1,4 @@
-# Crafted Engineering
+# Crafted Engineering Handbook
 
 - [Vision, Mission, Values](pages/values.md)
 - Core Practices (Coming soon!)
