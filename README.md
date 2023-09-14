@@ -1,7 +1,7 @@
 # Crafted Engineering Handbook
 
 - [Vision, Mission, Values](pages/values.md)
-- Core Practices (Coming soon!)
+- [Engineering Core Practices (In Progress)](https://docs.google.com/document/d/1YAhHLOK-y-aFKVvSXpin7CAh6h3A9nlGl2ZvxZnfyD0/edit#heading=h.rkki7jdgjjj5)
 - [New Project Checklist](pages/new_project_checklist.md)
 - Blog Posts
   - [Practices to Implement Right Now to Achieve True CI/CD](https://www.crafted.solutions/blog-feeds/practices-to-implement-right-now-to-achieve-true-cicd)
